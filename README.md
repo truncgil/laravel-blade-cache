@@ -13,7 +13,6 @@ composer require truncgil/laravel-blade-cache
 First, add the service provider to the config/app.php file in the providers array (if you are not using auto-discovery):
 
 ```php
-Kodu kopyala
 'providers' => [
     // ...
     Truncgil\LaravelBladeCache\CacheServiceProvider::class,

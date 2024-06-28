@@ -1,7 +1,4 @@
 <?php
-
-namespace Truncgil\LaravelBladeCache;
-
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\View;
 

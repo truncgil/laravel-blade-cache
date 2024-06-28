@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'truncgil/laravel-blade-cache',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '7884d7ddd964ffe9c47935068cac4d412b113388',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -167,9 +167,9 @@
             ),
         ),
         'truncgil/laravel-blade-cache' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '7884d7ddd964ffe9c47935068cac4d412b113388',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

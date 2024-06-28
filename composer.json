@@ -12,7 +12,7 @@
             "Truncgil\\LaravelBladeCache\\": "src/"
         },
         "files": [
-            "src/CacheHelper.php"
+            "vendor/truncgil/laravel-blade-cache/src/CacheHelper.php"
         ]
     },
     "extra": {

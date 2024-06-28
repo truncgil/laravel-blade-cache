@@ -3,7 +3,7 @@
         'name' => 'truncgil/laravel-blade-cache',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '7884d7ddd964ffe9c47935068cac4d412b113388',
+        'reference' => '6de3dfe414e8b5b7623ca8479bf88052014cadc8',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -169,7 +169,7 @@
         'truncgil/laravel-blade-cache' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '7884d7ddd964ffe9c47935068cac4d412b113388',
+            'reference' => '6de3dfe414e8b5b7623ca8479bf88052014cadc8',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

@@ -12,5 +12,5 @@ return array(
     'a1105708a18b76903365ca1c4aa61b02' => $vendorDir . '/symfony/translation/Resources/functions.php',
     '60799491728b879e74601d83e38b2cad' => $vendorDir . '/illuminate/collections/helpers.php',
     '72579e7bd17821bb1321b87411366eae' => $vendorDir . '/illuminate/support/helpers.php',
-    'ee6f15893c07b298298ad99c030194bb' => $baseDir . '/src/CacheHelper.php',
+    '34ae04de0f7eb2b994c52c07e4530c4e' => $vendorDir . '/truncgil/laravel-blade-cache/src/CacheHelper.php',
 );

@@ -13,7 +13,7 @@ class ComposerStaticInitfc43b7d6a5679e7774ef74118980c103
         'a1105708a18b76903365ca1c4aa61b02' => __DIR__ . '/..' . '/symfony/translation/Resources/functions.php',
         '60799491728b879e74601d83e38b2cad' => __DIR__ . '/..' . '/illuminate/collections/helpers.php',
         '72579e7bd17821bb1321b87411366eae' => __DIR__ . '/..' . '/illuminate/support/helpers.php',
-        'ee6f15893c07b298298ad99c030194bb' => __DIR__ . '/../..' . '/src/CacheHelper.php',
+        '34ae04de0f7eb2b994c52c07e4530c4e' => __DIR__ . '/..' . '/truncgil/laravel-blade-cache/src/CacheHelper.php',
     );
 
     public static $prefixLengthsPsr4 = array (

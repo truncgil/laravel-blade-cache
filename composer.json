@@ -2,6 +2,7 @@
     "name": "truncgil/laravel-blade-cache",
     "description": "A Laravel package for caching Blade includes",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": ">=7.4",
         "illuminate/support": "^8.0|^9.0|^10.0"
@@ -20,5 +21,11 @@
                 "Truncgil\\LaravelBladeCache\\CacheServiceProvider"
             ]
         }
-    }
+    },
+    "authors": [
+        {
+            "name": "Ümit Tunç",
+            "email": "umitreva@gmail.com"
+        }
+    ]
 }
